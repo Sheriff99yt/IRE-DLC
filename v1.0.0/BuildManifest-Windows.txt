@@ -1,5 +1,5 @@
-$NUM_ENTRIES = 3
+$NUM_ENTRIES = 5
 $BUILD_ID = v1.0.0
-pakchunk2-Windows.pak	4972	ver01	2	/Windows/pakchunk2-Windows.pak
+pakchunk2-Windows.pak	4945	ver01	2	/Windows/pakchunk2-Windows.pak
 pakchunk3-Windows.pak	1660	ver01	3	/Windows/pakchunk3-Windows.pak
-pakchunk4-Windows.pak	4779	ver01	4	/Windows/pakchunk4-Windows.pak
+pakchunk4-Windows.pak	9481	ver01	4	/Windows/pakchunk4-Windows.pak
